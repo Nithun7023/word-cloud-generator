@@ -9,14 +9,6 @@ A simple, Colab-ready Python script to generate and visualize word clouds from a
 - [Features](#-features)  
 - [Demo](#-demo)  
 - [Installation](#-installation)  
-- [Usage](#-usage)  
-- [Configuration](#-configuration)  
-- [Dependencies](#-dependencies)  
-- [Project Structure](#-project-structure)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-- [Author](#-author)  
-
 ---
 
 ## 💡 Features
